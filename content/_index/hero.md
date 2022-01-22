@@ -20,7 +20,7 @@ subtitle = "Showcase your next project"
 [[buttons]]
   text = "Features"
   url = "#features"
-  color = "dark" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
+  color = "success" # primary, secondary, success, danger, warning, info, light, dark, link - default: primary
 
 [[buttons]]
   text = "Getting Started"
@@ -30,5 +30,5 @@ subtitle = "Showcase your next project"
 [[buttons]]
   text = "Fragments"
   url = "#fragments"
-  color = "dark"
+  color = "info"
 +++

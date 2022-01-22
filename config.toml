@@ -94,12 +94,12 @@ googleAnalytics = ""
 [[menu.footer]]
   url = "https://syna.okkur.org/demo"
   name = "Getting Started"
-  weight = 10
+  weight = 20
 
 [[menu.footer]]
   url = "https://about.okkur.org/"
   name = "About Okkur Labs"
-  weight = 20
+  weight = 10
 
 [[menu.footer_social]]
   weight = 30

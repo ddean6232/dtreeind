@@ -2,7 +2,7 @@
 fragment = "list"
 weight = 250
 
-background = "light"
+background = "dark"
 count = 1000
 section = "fragments"
 #summary = false # Default value is true
