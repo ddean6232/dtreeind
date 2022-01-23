@@ -9,7 +9,7 @@ title = "About Syna"
 #subtitle = ""
 +++
 
-Open Source Theme from Okkur for your next project.
+Open Source Theme from Okkur for your next project!!!
 
 Syna is based on the awesome work by digitalcraftsman with his Hugo Agency Theme.
 
